@@ -2,9 +2,8 @@
 
 A sleek, high-performance Task Management application built using the MERN stack (**MongoDB, Express, React, Node.js**). This project features a completely responsive user interface with modern glassy design elements, dynamic state filtering, and an automated, isolated database architecture built explicitly for rapid deployment and seamless evaluation.
 
-## 🔗 Live Deployments
-* **Live Front-End Application:** [https://task-tracker-frontend-cf2x.onrender.com](https://task-tracker-frontend-cf2x.onrender.com)
-* **Live Production Back-End API:** [https://task-tracker-backend-mfjf.onrender.com/api/tasks](https://task-tracker-backend-mfjf.onrender.com/api/tasks)
+## 🔗 Live Deployment
+* **Live Application:** [https://task-tracker-frontend-cf2x.onrender.com](https://task-tracker-frontend-cf2x.onrender.com)
 
 ---
 
